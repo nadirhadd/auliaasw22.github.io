@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(108, 100, 196);
+    text-align: center;
+}
+
+.space {
+    width: 4px;
+    height: auto;
+    display: inline-block;
+}
+
+button {
+    border-radius: 12px;
+    align-items: center;
+}
